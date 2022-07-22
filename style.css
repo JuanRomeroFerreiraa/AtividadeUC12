@@ -1,0 +1,56 @@
+
+body {
+    color: white;
+    background-color: aqua;
+}
+
+header div {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+}
+a {
+    color:black;
+    text-decoration: none;
+}
+.destaque {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    padding: 16px;
+    height: 100px;
+    margin: 0 auto;
+}
+nav a {
+    font-weight: 900;
+    padding: 30px;  
+    background-color: blue;
+}
+nav {
+    margin-top: 30px;
+}
+.opcoes{
+    padding: 16px;
+    height: 100px;
+    margin: 0 auto;
+    text-align: center;   
+}
+input {
+    width: 380px;
+}
+footer img {
+    width: 40px;
+    height: 40px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+}
+footer a {
+    margin: 20px;
+    text-align: center;
+}
+footer p {
+    margin-top: 2px;
+}
