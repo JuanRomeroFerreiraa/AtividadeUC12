@@ -67,6 +67,9 @@ nav a {
 nav {
     margin-top: 30px;
 }
+nav a:hover{
+    background-color: deepskyblue;
+}
 .opcoes{
     padding: 16px;
     height: 100px;
@@ -136,9 +139,13 @@ footer p {
     text-align: left;
 }
 .info{
+    background-color: white;
     color: #275ab9;
     font-family: helvetica;
     font-size: 15px;
     text-decoration: underline;
     text-align: center;
+}
+h1 {
+    background-color: white;
 }
